@@ -1,0 +1,9 @@
+📂 DAX-Masterclass-PowerBI-Dashboard
+│── 📜 README.md  # Detailed project documentation
+│── 📜 LICENSE    # Open-source license (MIT recommended)
+│── 📂 data       # If you have raw or cleaned datasets
+│── 📂 reports    # Screenshots, insights, and PDF exports
+│── 📂 pbix_files # Contains the Power BI .pbix file
+│   ├── dax_masterclass.pbix
+│── 📂 scripts    # Any DAX formulas or Power Query transformations
+│── 📂 images     # Visualizations and Power BI dashboard screenshots
